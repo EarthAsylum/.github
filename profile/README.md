@@ -9,7 +9,7 @@ _Information Technology must shift from a technology focus to a business service
 
 - - -
 
-## Implementing…
+## Implementing...
 
 - Strategic & Tactical Planning
 - IT/Business Alignment
@@ -27,3 +27,10 @@ _Information Technology must shift from a technology focus to a business service
 - Leadership & Management Strengths
 - Return on IT Investment
 - Competitive IT Strategies
+
+## Commercial Projects...
+
+- [{eac}Doojigger](https://eacdoojigger.earthasylum.com/) - A new path to rapid plugin development. A powerful, extensible, multi-function architectural framework and utility plugin for WordPress.
+- [{eac}SoftwareRegistry](https://swregistry.earthasylum.com/) - A feature-rich and easily customized software registration and licensing server for WordPress.
+- [WebAgent Navigator](http://www.webagentnavigator.com/) - A comprehensive, full-service, web based, call scripting and contact management system for call centers, sales groups, and customer service teams.
+
