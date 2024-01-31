@@ -1,7 +1,6 @@
 ## EarthAsylum Consulting
 > Honey Brook PA, 19344
 &bull; (717) 673-8538
-&bull; support@earthasylum.com
 
 <img src="https://dilh86bklvv63.cloudfront.net/wp-content/uploads/sites/4/2020/12/EarthAsylum-Consulting-business-card-300x169.png" alt="EarthAsylum" style="height:150px;float:inline-end;"/>
 
